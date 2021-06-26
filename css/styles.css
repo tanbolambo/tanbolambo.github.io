@@ -1,0 +1,16 @@
+body {
+  background-color: #FACE3A;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.text-center {
+  text-align: center;
+}
